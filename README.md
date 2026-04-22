@@ -1,26 +1,24 @@
-<h1>Hey, I'm Kevin 👋</h1>
+## Hey, I'm Kevin 👋
 
-Full-stack engineer currently finishing my **MS CS @ UT Austin**.
-
-I like working at the intersection of solid backend engineering and real product impact.
-
-- 🔭 Currently building: AI SaaS with RAG, pgvector, and async document ingestion
-- 🎓 MS CS @ UT Austin · BS CS @ UW Paul G. Allen School
-- 📫 Reach me: [kkhuu131@gmail.com](mailto:kkhuu131@gmail.com) · [LinkedIn](https://linkedin.com/in/kevinkhuu21) · [Portfolio](https://kkhuu.vercel.app/)
+Full-stack engineer · Founding CTO at a stealth FinTech startup · MS CS @ UT Austin
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+### 🛠️ Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,py,react,nextjs,fastapi,nodejs,postgres,docker,kubernetes,gcp,pytorch,java,cpp,go,supabase,vercel,git)](https://skillicons.dev)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkhuu131&layout=compact&theme=default&hide_border=true" height="140"/>
-</p>
+### 🔭 What I'm working on
+- AI-powered mortgage SaaS with RAG pipelines, pgvector semantic search, and async document ingestion
+- MS CS @ UT Austin (4.0 GPA)
+
+### 📫 Contact
+- Email: [kkhuu131@gmail.com](mailto:kkhuu131@gmail.com)
+- LinkedIn: [kevinkhuu21](https://linkedin.com/in/kevinkhuu21)
+- Portfolio: [kkhuu.vercel.app](https://kkhuu.vercel.app/)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkhuu131&show_icons=true&theme=onedark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkhuu131&layout=compact&theme=onedark)
