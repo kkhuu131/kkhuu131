@@ -1,6 +1,6 @@
 <h1>Hey, I'm Kevin 👋</h1>
 
-Full-stack engineer currently finishing my **MS CS @ UT Austin**. I'm the Founding CTO at a stealth FinTech startup building an AI-powered mortgage SaaS with RAG pipelines and semantic search.
+Full-stack engineer currently finishing my **MS CS @ UT Austin**.
 
 I like working at the intersection of solid backend engineering and real product impact.
 
@@ -22,6 +22,5 @@ I like working at the intersection of solid backend engineering and real product
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkhuu131&show_icons=true&theme=default&hide_border=true&count_private=true" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkhuu131&layout=compact&theme=default&hide_border=true" height="140"/>
 </p>
